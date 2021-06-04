@@ -1,6 +1,18 @@
 # RZLNames
 Voor de index van RZL
 
-Voornaam achternaam pagina's misc
-/!\ alles moet op een lijn zijn (om later te kunnen sorteren)
+Er zijn 2 bestanden
+ - names.txt, deze bevat namen
+ - subjects.txt, deze bevat onderwerpen
+
+Het formaat van names.txt:
+ 
+[VOORNAAM] [ACHTERNAAM] | p[PAGINA NUMMER] | [TEKEN] | [EXTRA INFO]
+
+Het TEKEN kan - of + zijn, een - geef een minder belangerijke naam aan een + wel een belangerijke
+
+Het formaat van subjects.txt:
+ 
+[ONDERWERP] | p[PAGINA NUMMER] | [TEKEN] | [EXTRA INFO]
+
 
