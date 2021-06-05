@@ -2,14 +2,14 @@ WTK-bestel | p23 | + | wetenschap, technologie en kapitalisme
 Singulariteit | p25 | - | Moment dat AI slimmer is dan de mens
 Technologie als religie | p28 | + | Technologie is verlossing => religie
 Borderline tijden | p37 | - | Maatschappij waar iedereen een borderline individu is
-Extincition rebellion | p40 | - | Boze groene
-S in de bedrijfswereld | p53 | - | /
+Extinction rebellion | p40 | - | Boze groene
+Spiritualiteit in de bedrijfswereld | p53 | - | /
 Verbondenheid | p59 | - | /
-Transcentdentie | p59 | - | /
+Transcendentie | p59 | - | /
 Zin | p59 | - | /
 Trancenderen | p62 | - | /
 Levensbeschouwing | p63 | + | /
-Ideologie | p63 | + | /
+Ideologie | p63 | + | Levensbeschouwing met negatieve twist
 Spirituele crisis | p65 | + | /
 Zelfspiritualiteit | p68 | - | /
 Holisme | p68 | - | Iedereen en alles is verbonden
@@ -19,3 +19,29 @@ Naturalisme | p77 | + | Natuur verklaren zonder God
 Technologie definitie | p78 | + | 4 lange definities hier
 Spiegel van technologie | p83 | + | Mensheid zichzelf leren kennen door T
 Vrijheid als verbeelding | p85 | - | Verbeelding => Vrijheid
+Broeikaseffect | p95 | - | Straling van de zon blijft in de atmosfeer
+Gevolgen opwarming aarde volgens Houghton | p106 | - | 5 stappenplan naar onze doom
+Klimaatalarmisme | p113 | - | 'Klimaat wetenschap is propaganda'
+Stoknes top 5 waarom mensen opwarming aarde niet uitmaakt | p118 | /
+Psychologische redens top 7 opwarming aarde | p122 | - | Psychologisch kunnen mensen de opwarming van de aarde niet vatten
+Sociale dissonantie | p125 | - | Flat earth verkondigen in een wetenschappelijk congres
+Fatalisme | p133 | + | Waarom iets doen als we toch al doomed zijn?
+Pessimisme als gevaar | p133 | + | Doomsbeelden laten zien helpt niet
+Passief optimisme | p134 | - | Je verwacht goede afloop, maar doet niks
+Actief optimisme | p134 | - | Je verwacht goede afloop alleen maar als je iets doet
+Vooruitgansloochenaars | p135 | - | Verschillende types van pessimisme
+Problemen met optimisme/hoop | p138 | + | Geeft een goed gevoel in een slechte situatie
+Stochische hoop | p140 | - | Ik weet niet wat er komt, maar we zijn er klaar voor
+Gefundeerde hoop | p140 | - | Hoop zonder optimisme
+Milieumelancholie | p148 | - | Wenen over het klimaat
+Hockeystickcurve | p156 | - | De vorm van de temp grafiek
+Proxy's | p156 | - | Alternatieve redens voor de opwarming van de aarde
+Wetenschap definitie | p162 | + | Nastreven van kennis
+Beleid definitie | p162 | + | Wijze van handelen
+Politiek definitie | p162 | + | Beleid onderhandelen
+Technocratie | p163 | + | Wetenschappers aan de top
+Tornadopolitiek | p167 | - | Duidelijk wat te doen
+Abortuspolitiek | p167 | - | Niet duidelijk wat te doen
+Postnormale problemen | p169 | + | Problemen dat helemaal gek zijn yo
+JEFFREY DE ECHTE PROFEET | p175 | + | Deze man kent de waarheid
+Identiteit | p177 | - | aka jezelf aka ik aka me
