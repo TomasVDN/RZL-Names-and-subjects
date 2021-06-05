@@ -1,5 +1,21 @@
 WTK-bestel | p23 | + | wetenschap, technologie en kapitalisme
 Singulariteit | p25 | - | Moment dat AI slimmer is dan de mens
 Technologie als religie | p28 | + | Technologie is verlossing => religie
-Borderline tijden | p37 | - | Maatschappijk waar iedereen een borderline individu is
+Borderline tijden | p37 | - | Maatschappij waar iedereen een borderline individu is
 Extincition rebellion | p40 | - | Boze groene
+S in de bedrijfswereld | p53 | - | /
+Verbondenheid | p59 | - | /
+Transcentdentie | p59 | - | /
+Zin | p59 | - | /
+Trancenderen | p62 | - | /
+Levensbeschouwing | p63 | + | /
+Ideologie | p63 | + | /
+Spirituele crisis | p65 | + | /
+Zelfspiritualiteit | p68 | - | /
+Holisme | p68 | - | Iedereen en alles is verbonden
+Monisme | p68 | - | Ander woord voor holisme
+Spirituele revlutie | p69 | + | Scheiding van R en S
+Naturalisme | p77 | + | Natuur verklaren zonder God
+Technologie definitie | p78 | + | 4 lange definities hier
+Spiegel van technologie | p83 | + | Mensheid zichzelf leren kennen door T
+Vrijheid als verbeelding | p85 | - | Verbeelding => Vrijheid
