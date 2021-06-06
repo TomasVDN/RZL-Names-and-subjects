@@ -14,8 +14,8 @@ Yuval Noah Harari | p38 | + | T is grond voor zorgen
 Fons Van Dyck | p39 | - | helft belgen zijn anti-systeem
 Francis Fukuyama | p39 | - | ressentiment => een van de belangerijkse drijfveren verkiezingen
 Extinction Rebellion | p40 | - | K activisten, K is verloren als we kapitalistich blijven
-Steven pinker | p43 | + | crisisen op te lossen dankzij WTK
-Maarten Boudry | p43 | + | crisisen op te lossen dankzij WTK
+Steven Pinker & Maarten Boudry | p43 | + | crisisen op te lossen dankzij WTK
+Maarten Boudry | p43 | + | cf Steven Pinker
 Stephen Batchelor | p43 | + | auteur Buddhism and Ecology, boeddhisme kan (en moet) creatief reageren op de moderne cultuur, EC =~ SC
 Fritz Hull | p44 | + | auteur Earth&Spirit, spiritualiteit is nodig omdat het ons de wijsheid, verbeelding en kracht kan geven om EC aan te pakken, Spiritualiteit niet beperkt tot religie, EC =~ SC
 Paul Brockelman | p45 | + | auteur The Greening of Faith, 4 redenen waarom EC een SC is, EC =~ SC
@@ -41,3 +41,69 @@ Amer Case | p82 | + | smartphones == uitbreiding van onze (mentale) ik => kan to
 Philip Hefner | p83 | + | T is een spiegel voor M, brede definitie van T
 Mihaly Csikszentmihalyi | p85 | - | alternatieve definitie S
 Arnold Gehlen | p87 | + | M == Mängelwesen (kwetsbaar en nauwelijks leensvatbaar biologisch misbaksel)
+John Houghton | p106 | + | gevolgen voor de M van de opwarming van de aarde (zeespiegel, voedselvoorziening, zoet water, lokale ecosystemen, volksgezondheid)
+Mark Lynas | p111 | + | auteur zes graden => beschijft wereld/impact EC voor elke graad
+Sylvie Van Ginneken | p115 | - | journaliste bij Standaard, beschrijft haat reacties tegen klimaat jongeren
+Greta Thunberg | p117,p143 | + | leidende figuur van klimaat activisme, vorm van autisme waardoor EC extra impact op haar (of zoals de prof zich afvraag, zou dit niet de normale reactie moeten zijn? px)
+Per Espen Stoknes | p118 | + | verklaart vermindering van interesse door 1) evolutionaire psychologie (eigenbelang, imitatie, aanzien binnen de groep,korte termijndenken), 2) cognitieve psychologie (EC niet direct zichtbaar, slechte perceptie van de risico's [aka M is stupid], vooroordelen hebben grote impact op ons denken en doen) en 3) NW en Kactivisten beschouwen M als rationeel => is echter niet zo! (p125)
+David Wallace-Wells | p129 | - | schreef boek over worst case scenario => zorgde voor veel ophef
+Michael E. Mann | 130 | - | reageert op David boek => te alarmistisch, EC is zo al erg genoeg
+Eric Holthaus | p130 | + | akkoord met Mann, bang maken is contra productief
+Steven Pinker & Maarten Boudry | p133 | + | pessimisme kan gevaarlijk zijn (fatalisme & radicalisme)
+Per Espen Stoknes | p134, p140 | + | actief & passief optimisme, stoïsche & gefundeerde hoop
+Maarten Boudry | p134 | + | 4 types vooruitgangsloochenaars: nostalgische pessimisten, "Wacht maar"-school, cyclische pessimisten & tredmolen pessismisten
+Alex Steffen | p136 | + | waanhoop en cynisme in voordeel van M tegen K
+Greta Thunber | p137 | + | phase hoop is voorbij, actie NU is nodig
+Hamilon | p139 | + | altijd hoopvol blijven kan belemmering vormen voor waarheid
+Eric Holthaus | p143 | + | waanhoop als gevolg van EC
+Gillian Caldwell | p145 | - | voorbeeld van "klimaattrauma"
+Lise Van Susteren | p146,p148 | + | pre-traumatic stress response in verband met EC
+Evanne Nowak | p147 | + | effect EC op mentaal welzijn (groep)
+Koen Lowet | p149 | + | Kritisch over "klimaatpsychologie" => denkt dat er inderdaad een probleem is, maar is ervan overtuigd dat bestaande kaders al genoeg zijn
+Jerome Bernstein & Joanna Macy | p150 | - | ervaring als psycholoog met patienten die zorgen met EC hadden
+Valerie Trouet | p151 | + | "ik ben minder bang voor wat het K ons zal aandoen dan voor wat de mensen elkaar zullen aandoen [wegens gevolgen van het K]", prof vind zich ook in dit idee
+Marcel Crok | p155 | + | voorbeeld van klimaatscepticus
+Roger A. Pielke Jr. | p162,p167 | + | definieert W, beleid en politiek, tornadopolitiek, abortuspolitiek
+Sheila Jasanoff  | p164 | + | omschrijft de coproductie van kennis en sociale orde => natuur en cultuur kunnen niet volledig gescheiden blijven
+Mike Hulme | p167 | - | W heeft onenigheid nodig om vooruit te gaan, problemen met technocratie: beleid niet waarden vrij en onrealistische eisen tegenover zekerheid van de W
+Marcel Crok | p172 | + | EC is "zoals kerstboom waar iedereen zijn favoriete bol in hangt", EC is bij uitstek postnormale probleem
+Grant R. Jeffrey | p175 | + | EC is leugen door "elite" om haar verborgen agenda te realiseren, extreem voorbeeld om belangerijkse punten aan te tonen, dit is veroorzaakt door angst (om zijn gewoontes te veranderen, om zijn vrijheid te beslissen,...) (a really crazy man, but with some good points imo)
+Per Espen Stoknes | p177 | + | identiteit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
