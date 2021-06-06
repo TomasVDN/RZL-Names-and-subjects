@@ -4,6 +4,7 @@ Technologie als religie | p28 | + | Technologie is verlossing => religie
 Borderline tijden | p37 | - | Maatschappij waar iedereen een borderline individu is
 Extinction rebellion | p40 | - | Boze groene
 Spiritualiteit in de bedrijfswereld | p53 | - | /
+Spititualiteit definitie | p59 | + | Bestaat uit 3 kenmerken
 Verbondenheid | p59 | - | /
 Transcendentie | p59 | - | /
 Zin | p59 | - | /
@@ -45,3 +46,28 @@ Abortuspolitiek | p167 | - | Niet duidelijk wat te doen
 Postnormale problemen | p169 | + | Problemen dat helemaal gek zijn yo
 JEFFREY DE ECHTE PROFEET | p175 | + | Deze man kent de waarheid
 Identiteit | p177 | - | aka jezelf aka ik aka me
+Klimaatkerk | p192 | - | Opwarming aarde als religie
+Religie definitie | p202 | + | De Dikke Van Dale zegt ...
+Substantiele religie definitie | p203 | - | Wat religie is
+Functionele religie definitie | p204 | - | Wat religie doet
+Theisme | p217 | + | Geloof in een schepper
+God van filosofen en geleerden | p218 | - | God is goed, alwetend,...
+Agnosticisme | p219 | - | Niet weten of er een God bestaat
+Dood van God | p228 | + | tldr is te lang om hier te schijven
+Zwak-atheisme | p234 | - | God bestaat waarschijnlijk niet
+Ster-atheisme | p234 | - | God bestaat niet
+Conflictmodel | p236 | - | Religie en natuurwetenschap zijn vijanden
+Kloofmodel | p237 | - | Religie en natuurwetenschap moet je scheiden
+Dialoogmodel | p237 | - | Religie en natuurwetenschap kunnen ideeen delen
+Integratiemodel | p237 | - | Religie en natuurwetenschap kan je mergen
+Wetenschappelijke methode 6 kenmerken | p256 | - | /
+Litige | p262 | - | Meningsverschil in hetzelfde denkkader
+Differend | p262 | - | Meningsverschil door een verschil in denkkader
+Parabel van de onzichtbare tuinman | p264 | + | Andere conclusies uit dezelfde informatie
+Natuurwetenschap vs Religie kader | p269 | + | Handige kader waar de verschillen staan
+NOMA principe | p271 | + | Niet-overlappende magistria
+Manipulatieve interesse | p272 | - | Streven om de omgeving te veranderen
+Cognitieve interesse | p272 | - | Streven om de omgeving te begrijpen
+Zingevende interesse | p273 | - | Streven naar verbonden te zijn met iets groter dan jezelf
+Moraal door natuurwetenschap | p276 | - | Hoe krijg je morele waardes uit natuurwetenschap
+Religie moet veranderen door natuurwetenschap | p282 | - | Zie titel
