@@ -1,3 +1,4 @@
+1. A = antropoceen, E = ecologie/ecologische, N = natuur/lijke, W = wetenschappen, NW = natuurwetenschappen, T = technologie, R = religie, M = mens(en)/menselijk, S = spirituele/spiritualiteit, C = crisis(en)
 François Bourguignon | p22 | - | armoede is aan het dalen
 Christian Morrison | p22 | - | armoede is aan het dalen
 Max Roser | p23 | - | arme vandaag hebben het in sommige opzichten beter dan rijken vroegen voorbeeld van Nathan Rothschild)
@@ -91,7 +92,12 @@ Arnold Burms | p272 | + | motieve van M op te delen in 3 categorien: manipulatie
 Herman De Dijn | p272 | + | cf Arnold Burms
 Sam Harris | p276 | + | gaat tegen Arnold Burms en Herman de Dijn in => NW hebben wel iets te zeggen over zingeving, verklaart door het streven naar welzijn door M
 Darwin | p280 | + | NW en religie incompatibel => cf vb van sluipwespen
-
+Paul Crutzen | p299 | + | bedenker term A, 
+Eugene F. Stroemer, George Perkin Marsch, Antonio Stoppani | p 299 | - | medebedenkers term A (informeel gebruikt)
+Thomas William Jenkyn | p302 | - | menselijk tijdperk voordat de term "antropoceen" ingevoerd werd
+Georges Louis Leclerq, compte de Buffon | p302 | - | cf Tommas William Jenkyn
+Paul Gervais, Charles Lyell | p303 | - | introduceerden de term 'holoceen'
+Christophe Bonneuil, Jean-Baptiste Fressoz | p304 | - | M al eeuwen weten dat M grote impact heeft/zal hebben op milieu
 
 
 
