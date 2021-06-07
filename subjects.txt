@@ -93,5 +93,5 @@ Organisme | p423 | - | /
 Mechanisme | p423 | - | /
 Darwinisme | p424 | - | /
 Ecomodernisme | p430 | + | Technologische oplossing zoeken voor het milieu
-Technologie => gevaar voor sprituele ontwikkeling | p437 | /
+Technologie => gevaar voor sprituele ontwikkeling | p437 | - | /
 Ecomodernisme is vervolg van verlichting | p447 | - | /
