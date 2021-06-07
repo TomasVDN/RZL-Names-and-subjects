@@ -1,3 +1,4 @@
+1. A = antropoceen, E = ecologie/ecologische, N = natuur/lijke, W = wetenschappen, NW = natuurwetenschappen, T = technologie, R = religie, M = mens(en)/menselijk, S = spirituele/spiritualiteit, C = crisis(en)
 François Bourguignon | p22 | - | armoede is aan het dalen
 Christian Morrison | p22 | - | armoede is aan het dalen
 Max Roser | p23 | - | arme vandaag hebben het in sommige opzichten beter dan rijken vroegen voorbeeld van Nathan Rothschild)
@@ -77,7 +78,26 @@ Peter L. Berger | p206 | + | functionele definitie wordt gebruikt speciefieke-re
 Gregory Baum | p207 | + | almost same as Peter L. Berger
 William James | p209 | + | algemene definitie van R
 Michael Chrichton | p211 | + | E biedt voor meer en meer mensen invulling aan => linkt hij aan R, E is slachtoffer van hardnekkige religieuze mythes (bv primitieve M in harmonie met natuur & elkaar, N liefdevol, harmonieus en paradeijslijk)
-
+Gianni Vattimo | p234 | - | aangehaald als belangerijke philosoof in het eerste boek van de prof
+Ian G. Barbour | p236 | + | grondlegger studie NW en R, stelde 4 modellen voor om de samenhang te beschijven(p236-237)
+Elaine Howard Ecklund | p238 | + | bestudeerde opinie/relatie tussen NW en R (wetenschappers across the globe), concludeerd dat NW en R niet perse in conflict moeten zijn, 
+Francis S. Collins | p244, pleidooi p246-254 | + | aanhanger integratie model
+Jerry A. Coyne | p244, pleidooi p254-262, p282 | + | aanhanger conflict model, vind NOMA een verdunning van de religie
+Stephen J. Gould | p244, pleidooi p268-271 | + | NOMA-principe
+Jean-François Lyotard | p262 | + | litige vs differend
+Taede Smedes | p265, p287 | + | parabel van de onzichtbare tuinman, integratie model leidt tot conflict model (procrustbed), idee van resonantie
+John Wisdom | p266 | - | originele bedenker van de parabel van de onzichtbare tuinman
+Anthony Flew | p267 | + | andere versie van parabel onzichtbare tuinman maar vanuit athéïstiche standpunt
+Arnold Burms | p272 | + | motieve van M op te delen in 3 categorien: manipulatieve interesse, cognitieve interesse en zingevende interesse => onderscheid tussen feit en waarde, grotste uitdaging van onze tijd is de scheiding tussen NW en zingeving accepteren
+Herman De Dijn | p272 | + | cf Arnold Burms
+Sam Harris | p276 | + | gaat tegen Arnold Burms en Herman de Dijn in => NW hebben wel iets te zeggen over zingeving, verklaart door het streven naar welzijn door M
+Darwin | p280 | + | NW en religie incompatibel => cf vb van sluipwespen
+Paul Crutzen | p299 | + | bedenker term A, 
+Eugene F. Stroemer, George Perkin Marsch, Antonio Stoppani | p 299 | - | medebedenkers term A (informeel gebruikt)
+Thomas William Jenkyn | p302 | - | menselijk tijdperk voordat de term "antropoceen" ingevoerd werd
+Georges Louis Leclerq, compte de Buffon | p302 | - | cf Tommas William Jenkyn
+Paul Gervais, Charles Lyell | p303 | - | introduceerden de term 'holoceen'
+Christophe Bonneuil, Jean-Baptiste Fressoz | p304 | - | M al eeuwen weten dat M grote impact heeft/zal hebben op milieu
 
 
 

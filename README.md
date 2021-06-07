@@ -1,8 +1,9 @@
 # RZLNames
 Voor de index van RZL
 
-Er zijn 2 bestanden
+Er zijn 3 bestanden
  - names.txt, deze bevat namen
+ - sortedNames.txt, hetzelfde als names.txt, maar alfabetisch gesorteerd
  - subjects.txt, deze bevat onderwerpen
 
 Het formaat van names.txt:
