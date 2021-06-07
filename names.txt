@@ -1,4 +1,4 @@
-1. A = antropoceen, E = ecologie/ecologische, N = natuur/lijke, W = wetenschappen, NW = natuurwetenschappen, T = technologie, R = religie, M = mens(en)/menselijk, S = spirituele/spiritualiteit, C = crisis(en)
+1. A = antropoceen, E = ecologie/ecologische, N = natuur/lijke, W = wetenschappen, NW = natuurwetenschappen, T = technologie, R = religie, M = mens(en)/menselijk, S = spirituele/spiritualiteit, C = crisis(en), K = klimaat
 François Bourguignon | p22 | - | armoede is aan het dalen
 Christian Morrison | p22 | - | armoede is aan het dalen
 Max Roser | p23 | - | arme vandaag hebben het in sommige opzichten beter dan rijken vroegen voorbeeld van Nathan Rothschild)
@@ -98,36 +98,42 @@ Thomas William Jenkyn | p302 | - | menselijk tijdperk voordat de term "antropoce
 Georges Louis Leclerq, compte de Buffon | p302 | - | cf Tommas William Jenkyn
 Paul Gervais, Charles Lyell | p303 | - | introduceerden de term 'holoceen'
 Christophe Bonneuil, Jean-Baptiste Fressoz | p304 | - | M al eeuwen weten dat M grote impact heeft/zal hebben op milieu
+Paul Crutzen | p307 | + | keuze begin A arbitrair, opteert einde 18de eeuw (1784 moderne stoomachine)
+Yuval Noah Harari | p311,p320 | + | A begint uitsterven megafauna, agrarische revolutie niet even idilisch als voorgesteld (meer werk, minder gevarieerde voeding waardoor meer ziektes en ondervoeding) => meer mensen maar in slechter levensomstandigheden (dubbelzinnig)
+Erle C. Ellis | p313 | - | A begint niet bij verdwijning megafauna => andere dieren kunnen ook lokale impact hebben op het ecosysteem & te verspreid over de tijd
+William F. Ruddiman | p315 | + | A bij agrarische revolutie want zo'n grote impact dat ijstijd uitbleef
+Bruce Smith | p323 | + | alternatieve reden voor begin A bij agrarische revolutie: ipv kijken naar wanneer M een grote impact heeft, kijken naar wat de "bouwstenen" voor deze impact gelegen zijn geweest
+Melinda Zeder | p323 | + | cf Bruce Smith
+Lewis en Maslin | p324 | + | begin A in 1610 met ontdekking amerika & genocide amerikaanse inheemse bevolkingen + 5 redenen p328-329
+Fransisco Guerra | p330 | - | bescrijft tweede reis Columbus
+Massimo Livi-Bacci | p332 | + | beschrijft impact aankomst spanjaarden => niet direct gelinkt aan epidemie, eerder aan ontvrichten van samenleving van Indianen, die extra erg werd door epidemie
+Will Stefen | p334-352 | + | A pas na de 2de WO, hangt samen met de "grote versnelling"
+John Robert McNeill | p339 | - | werkte sammen met Stefen en Curtzen over "grote versnelling", gebruikt daar indicatoren voor (p344)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Lynn White Jr. | p363 | + | historische wortels van EC, grondlegger ecotheologie
+Todd Le Vasseur | p364 | - | vat Lynn Whyte's artikel sammen in 3 beweringen
+Anna L. Peterson | p364 | - | cf Todd Le Vaseur
+Fransiscus van Assisi | p367 | + | heilige die voor natuur streed (beschouwde andere schepsels als familieleden van dezelfde hemelse vader
+Bron Taylor | p369 | + | beschrijft reactie op artikel van Lynn White: vijandelijke afwijzing, onverschilligheid, apologetiek en schuldbekentenis 
+Richard John Neuhaus | p369 | - | theologische adviseur George W. Bush, ecologisme =~ poging om religie te perverteren en te vervangen door een heidendom
+Rabbi Lawrence Troster | p371 | + | reden dat mis gaat : God beeld van M => M is vertengwoordiger god, zegt dat M laatkommers zijn => geen reden tot arrogantie
+Paul Fransiscus | deel 9.1.3 | + | auteur "Laudato Si" => natuur niet louter instrumentale waarde, gematigde antropocentrisme, verbonden met een sterke theocentrisme, EC is een RC
+Abdullah Omar Nasseef | p372 | + | M tussen engelen en dieren
+Shrivatsa Goswanmi | p384 | + | vergroening hindoeïsme
+Christopher Ives | p387 | + | vergroening boeddhisme
+Joanna Macy | p387 | + | ecoboeddhisme
+Chen Hao | p389 | - | voorbeeld uit het taoisme, M zijn is verbonden zijn met omgeving
+Wang Yangming | p390 | - | breid idee van Chen Hao uit
+James Lovelock | hdstk 9, vooral 9.2 | + | Gaiahypothese (Aarde als één systeem), parabel van de Madeliefjeswereld
+William Bill Anders | p398 | + | apollo 8 astronaut die ervaring van earth-rise en overview effect beschrijft
+Dian Hitchcock | p403 | - | beoordeelde idee van Lovelock goed
+Ford Doolittle | p408 | + | kritiek op Lovelock => Gaia kan geen levend wezen zijn, want stelt beeld van de natuur voor dat "fout" is in het licht van evolutiebiologie. Kan gevaar vormen voor K want kan verkeerd beeld schetsen dat Gaia er zal zijn om te helpen in de EC, atmos is resultaat van toeval, niet van zelfregulering
+Richard Dawkins | p408 | + | cf Ford Doolittle
+Andrew Watson | p411 | + | ontwirp met Lovelock parabel van de Madeliefjeswereld
+Tim Lenton | p415 | - | leerling Lovelock, verkeerd om regulatie door de biosfeer te praten, eerder door levende wezens in biosfeer
+Michael Ruse | p415+ | + | beschrijft effect Gaiahypothese, momentum ervan voorbij rond de eeuwwisseling
+Toby Tyrell | p419 | + | huidige stand van zaken van Gaiahypothese
+Ted Nordhaus | p431 | + | oprichter breaktrough Institute, recepten traditionele groenen niet geschikt
+Michael Shellenberger | p431 | + | cf Ted Nordhaus
+Michael Chrichton | p433 | + | antropoceen => M vanaf begin grote impact, aarde =! paradijs
+Lynas, Nordhaus en Shellenberger | p434 | + | alternatief verhaal voor gevolg van M op K, in vraag stellen van vooruitgang is problematisch, niet realistisch dat mensen zichzelf gaan begrenzen
